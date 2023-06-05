@@ -6,9 +6,9 @@ I'm a Front-end Web Developer with 1 years of experience in front-end. I have ex
 ## 👨🏻‍💻 More About Me
 - 🌱 I’m currently available for hire.
 - 🔭 I'm currently working with Ruby on Rails.
-- 💬 Ask me about JavaScript, React JS, Node JS, Express JS, and PHP.
-- 📫 You can reach me via email at desmond0406114009@gmail.com. I'll try to respond as soon as I can.
-- 📄 Please visit my [Portfolio](https://your-portfolio-link.com) for more details about me. I'm open to feedback and suggestions!
+- 💬 Ask me about JavaScript, html,css.
+- 📫 You can reach me via email at richmondgyening007@gmail.com I'll try to respond as soon as I can.
+
 - 😊 You can also check out my interesting articles on [Dev.to](https://dev.to) and share your suggestions.
 - ⚡ Fun fact: I love music and dance, and they inspire me in my coding journey.
 
@@ -17,30 +17,15 @@ When the night comes, the code starts flowing!
 
 ## 🛠 Tech Stack
 - JavaScript
-- React
-- Redux
-- PHP
-- Node.js
-- Express.js
-- Ruby
-- Ruby on Rails
-- MongoDB
-- PostgreSQL
-- MySQL
-- Bootstrap
 - HTML
-- Auth0
 - CSS
 - Git
 - GitHub
 - Visual Studio Code
 
-## ⚙️ GitHub Analytics
-[![Desmond's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&count_private=true&show_icons=true&theme=dark)](https://github.com/your-username)
 
 ## 🤝🏻 Connect with Me
 You can connect with me on the following platforms:
-- [LinkedIn](https://www.linkedin.com/in/your-linkedin-profile)
-- [Twitter](https://twitter.com/your-twitter-profile)
-- [Dev.to](https://dev.to/your-devto-profile)
-- [Portfolio](https://your-portfolio-link.com)
+- [LinkedIn](https://www.linkedin.com/in/richmond-gyening-9b90a4260/?lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3BEfY7hbUdROeixnv1wUZy2g%3D%3D)
+- [Twitter](https://twitter.com/GyeningRichmond)
+- 
