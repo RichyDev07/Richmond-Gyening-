@@ -1,6 +1,6 @@
 # Richmond-Gyening-
 # Hi there! 👋
-I'm RICHMOND GYENING 🙋🏼‍♂️ Glad to see you! 😃
+I'm Richmond Gyening 🙋🏼‍♂️ Glad to see you! 😃
 I'm a Front-end Web Developer with 1 years of experience in front-end. I have expertise in JavaScript,  HTML, CSS, . I possess strong problem-solving and attention to detail skills, which have led to the successful development and maintenance of multiple web applications. I also have excellent communication skills and can work efficiently in fast-paced environments.
 
 ## 👨🏻‍💻 More About Me
